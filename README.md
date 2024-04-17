@@ -14,4 +14,4 @@ Name: Sarthak Vishnu
 Roll No.: 20240  
 
 B. Tech, ECE  
-Indian Institute of Information Technology Una [H.P.]
+Indian Institute of Information Technology Una [H.P.] (2020-24)
