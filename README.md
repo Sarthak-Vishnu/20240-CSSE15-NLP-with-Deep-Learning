@@ -1,6 +1,9 @@
 # 20240-CSSE15-NLP-with-Deep-Learning
 Project submission for CSSE15 course.
 
+# Dataset:
+[SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) (The Stanford Question Answering Dataset)
+
 ## Customizing a Pre-trained BERT Model for Question-Answering Task
 **Sample input-output snippet:**
 ![image](https://github.com/Sarthak-Vishnu/20240-CSSE15-NLP-with-Deep-Learning/assets/75846529/1053bbc0-ccbe-45c1-87e3-9a674589bac9)  
